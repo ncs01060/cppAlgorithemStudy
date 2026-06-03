@@ -7,3 +7,10 @@
 !*.md
 !*/
 !.gitignore
+
+# macOS
+.DS_Store
+
+# 컴파일 결과물 (확장자 없는 실행파일)
+solution
+a.out
